@@ -1,0 +1,41 @@
+/* Global */
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #FFFFFF;
+  color: #000000;
+  font-family: 'Karla', sans-serif;
+  font-weight: 100%;
+  font-size: 100%;
+}
+
+p {
+  padding: 0;
+  margin: 0;
+  font-size: 1.7em;
+}
+
+@media (min-width: 325px) {
+  p {
+    font-size: 4em;
+  }
+}
+
+a,
+a:hover,
+a:visited {
+  color: #000000;
+  text-decoration: underline;
+}
+
+.container {
+  padding: 1rem;
+}
+
+@media (min-width: 768px) {
+  .container {
+    padding: 4rem 5rem;
+  }
+}
