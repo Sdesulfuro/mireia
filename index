@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="Cache-control" content="public">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="desciption" content="
+        Hi! I’m S de Sulfuro, Graphic Designer based in Leeds (UK),you can find me on Instagram. If you'd like to see my portfolio or
+	have any further questions about my work, please get in touch.">
+  <title>S de Sulfuro</title>
+
+  <meta property="og:title" content="S de Sulfuro">
+  <meta property="og:description" content="
+        Hi! I’m S de Sulfuro, Graphic Designer based in Leeds (UK),
+	you can find me on Instagram. If you'd like to see my portfolio or
+	have any further questions about my work, please get in touch.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="http://sdesulfuro.com">
+
+  <!-- <meta property="og:image" content="http://sdesulfuro.com/cartell.png"> -->
+
+  <link <link href="https://fonts.googleapis.com/css?family=Karla" rel="stylesheet">
+
+  <link href="css/style.css?v=03" rel="stylesheet">
+
+  <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
+  <link rel="icon" href="img/favicon.png" type="image/x-icon">
+
+  <style type="text/css">
+  </style>
+</head>
+
+<body>
+
+  <main class="container">
+    <p>
+      Hi! I'm S de Sulfuro, Graphic Designer based in València, find me on
+      <a href="https://www.instagram.com/sdesulfuro">Instagram</a>. If you'd like to
+	    see my portfolio or have any further questions about my work, please drop me a
+      <a href="mailto:hello@sdesulfuro.com">line</a>.
+	  </p>
+	  <head>
+<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+  <head>
+<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+  </main>
+
+</body>
+
+</html>
